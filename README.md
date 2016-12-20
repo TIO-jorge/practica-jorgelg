@@ -73,7 +73,7 @@ editamos un archivo nuevo, ejercicios.md
 
 ```
 vi ejercicios.md
-...
+....................
 git add ejercicios.md
 git commit
 ```
